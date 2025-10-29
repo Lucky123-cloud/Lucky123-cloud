@@ -72,12 +72,12 @@
 
 | Project | Focus | Tech |
 |----------|--------|------|
-| [ALX Backend JavaScript](https://github.com/Lucky123-cloud/alx-backend-javascript) | API design and async patterns. | Node.js |
+| [ALX Backend JavaScript](https://github.com/Lucky123-cloud/alx-backend-javascript) | API design and async patterns. | JavaScript |
 | [ALX Backend Python](https://github.com/Lucky123-cloud/alx-backend-python) | REST APIs, auth, and data handling. | Python |
-| [ALX Backend Storage](https://github.com/Lucky123-cloud/alx-backend-storage) | Databases and data persistence. | SQL, Redis |
+| [ALX Backend Storage](https://github.com/Lucky123-cloud/alx-backend-storage) | Databases and data persistence. | SQL, Redis, NoSQL |
 | [ALX Backend User Data](https://github.com/Lucky123-cloud/alx-backend-user-data) | Authentication and user management. | Python |
-| [ALX Backend](https://github.com/Lucky123-cloud/alx-backend) | General backend architecture. | Node.js |
-| [ALX Files Manager](https://github.com/Lucky123-cloud/alx-files_manager) | File handling and API-based storage. | Node.js, MongoDB |
+| [ALX Backend](https://github.com/Lucky123-cloud/alx-backend) | General backend architecture. | Python, JavaScript |
+| [ALX Files Manager](https://github.com/Lucky123-cloud/alx-files_manager) | File handling and API-based storage. | Python, JavaScript |
 
 ---
 
@@ -87,7 +87,7 @@
 |----------|--------------|------|
 | [Blue Ocean Cleaning](https://blueoceancleaning.co.ke) | Company website for cleaning agency in Nairobi. | HTML, CSS, Bootstrap, JS, jQuery |
 | [DigiBiashara](https://digibiashara.com) | Digital marketing agency website. | Node.js, Express, jQuery, Bootstrap |
-| [IntaSEF Frontend](https://intasef.com) | Frontend for secure escrow system. | Flask, JS, Bootstrap |
+| [Intasef Frontend](https://intasef.com) | Frontend for secure escrow system. | Flask, JS, Bootstrap |
 
 ---
 
@@ -95,8 +95,8 @@
 
 | Project | Description | Tech |
 |----------|--------------|------|
-| [Savannah Informatics Technical Challenge](https://github.com/Lucky123-cloud/savannah-informatics-technical-challenge) | Backend challenge showcasing design and scalability. | Python, FastAPI |
-| [BVAT Backend](https://github.com/Lucky123-cloud/bvat-backend) | Interview backend challenge with REST architecture. | Node.js, MongoDB |
+| [Savannah Informatics Technical Challenge](https://github.com/Lucky123-cloud/savannah-informatics-technical-challenge) | Backend challenge showcasing design and scalability. | Python, FastAPI, PostgreSQL |
+| [BVAT Backend](https://github.com/Lucky123-cloud/bvat-backend) | Interview backend challenge with REST architecture. | Node.js, PostgreSQL |
 | [Algorithmic Sciences Project](https://github.com/Lucky123-cloud/algorithmic_sciences_project) | Algorithmic and system design exercises. | Python |
 
 ---
@@ -126,13 +126,14 @@
 ---
 
 ## Currently Exploring
-- Advanced Microservices & Distributed Systems  
+- Microservices & Distributed Systems and mastery of Go, I find Go really interesting  
 - Cloud Infrastructure Automation (Kubernetes, Terraform)  
 - API Optimization & System Scaling  
+  N/B - I guess we never try to learn everything, there has always been some peace by not knowing a lot, however we can try to know what helps us not just everything
 
 ---
 
-## Quote I Live By
+## What did the Zen of Python say?
 > “There should be one — and preferably only one — obvious way to do it.”  
 > — *The Zen of Python*
 

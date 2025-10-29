@@ -1,5 +1,5 @@
 <!-- Profile Banner (you can replace the URL with your own custom banner later) -->
-![Lucky Baraka — Backend Engineer](https://img.shields.io/badge/Backend%20Engineer-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)
+![Lucky Baraka — Backend Engineer](https://github.com/Lucky123-cloud/Lucky123-cloud/blob/main/Lucky_Banner.png)
 
 <h1 align="center"> Hey there, I'm LUCKY BARAKA </h1>
 

@@ -47,35 +47,19 @@
 
 ---
 
-## 🔥 Featured Projects
-
-Here are some of the most impactful and technically challenging projects I’ve built or contributed to.
-
-### Top 3 Visual Projects
-
-<p align="center">
-  <a href="https://github.com/Lucky123-cloud/Task-manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucky123-cloud&repo=Task-manager&theme=tokyonight" alt="Task Manager" />
-  </a>
-  <a href="https://github.com/Lucky123-cloud/CyberOps_Manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucky123-cloud&repo=CyberOps_Manager&theme=tokyonight" alt="CyberOps Manager" />
-  </a>
-  <a href="https://github.com/Lucky123-cloud/golang/tree/master/golang-restaurant-management-backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucky123-cloud&repo=golang&theme=tokyonight" alt="Golang Restaurant Manager" />
-  </a>
-</p>
-
-### Additional Featured Projects
+## Featured Projects
 
 | Project | Description | Tech |
 |----------|--------------|------|
+| [Task Manager](https://github.com/Lucky123-cloud/Task-manager) | Full MERN-stack productivity app with authentication, task tracking, and cloud persistence. | MongoDB, Express, React, Node.js |
 | [IntaSEF](https://intasef.com) | Secure online escrow payment system for digital transactions. | Flask, PostgreSQL |
+| [Golang Restaurant Manager](https://github.com/Lucky123-cloud/golang/tree/master/golang-restaurant-management-backend) | Scalable restaurant management backend built with Go. | Golang, MongoDB |
 | [Savannah Informatics Challenge](https://github.com/Lucky123-cloud/savannah-informatics-technical-challenge) | Backend challenge focusing on clean architecture and performance. | FastAPI, Python |
 | [ALX Comprehensive Projects](https://github.com/Lucky123-cloud/alx-higher_level_programming) | ALX learning projects across backend, storage, and system engineering. | Python, Bash, C, SQL |
 
 ---
 
-## ⚙️ Current Projects
+## Current Projects
 
 | Project | Description | Tech |
 |----------|--------------|------|
@@ -84,7 +68,7 @@ Here are some of the most impactful and technically challenging projects I’ve 
 
 ---
 
-## 🧠 Backend Projects
+## Backend Projects
 
 | Project | Focus | Tech |
 |----------|--------|------|
@@ -97,7 +81,7 @@ Here are some of the most impactful and technically challenging projects I’ve 
 
 ---
 
-## 🎨 Frontend Projects
+## Frontend Projects
 
 | Project | Description | Tech |
 |----------|--------------|------|
@@ -107,7 +91,7 @@ Here are some of the most impactful and technically challenging projects I’ve 
 
 ---
 
-## 🧩 Interview & Technical Challenge Projects
+## Interview & Technical Challenge Projects
 
 | Project | Description | Tech |
 |----------|--------------|------|
@@ -117,7 +101,7 @@ Here are some of the most impactful and technically challenging projects I’ve 
 
 ---
 
-## 📚 Learning Repositories
+## Learning Repositories
 
 | Repository | Focus |
 |-------------|--------|
@@ -131,7 +115,7 @@ Here are some of the most impactful and technically challenging projects I’ve 
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lucky123-cloud&show_icons=true&theme=tokyonight" alt="Lucky's GitHub Stats" height="150" />
@@ -141,20 +125,20 @@ Here are some of the most impactful and technically challenging projects I’ve 
 
 ---
 
-## 🧭 Currently Exploring
+## Currently Exploring
 - Advanced Microservices & Distributed Systems  
 - Cloud Infrastructure Automation (Kubernetes, Terraform)  
 - API Optimization & System Scaling  
 
 ---
 
-## 💬 Quote I Live By
+## Quote I Live By
 > “There should be one — and preferably only one — obvious way to do it.”  
 > — *The Zen of Python*
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucky-baraka/">

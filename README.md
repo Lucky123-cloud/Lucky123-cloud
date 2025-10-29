@@ -1,19 +1,19 @@
 <!-- Profile Banner (you can replace the URL with your own custom banner later) -->
 ![Lucky Baraka — Backend Engineer](https://img.shields.io/badge/Backend%20Engineer-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)
 
-<h1 align="center">👋 Hey there, I'm LUCKY BARAKA</h1>
+<h1 align="center"> Hey there, I'm LUCKY BARAKA </h1>
 
 <p align="center">
   <b>Backend Software Engineer | Node.js • Golang • Python • JavaScript | AWS • Docker • Kubernetes • Linux | API & System Design Expert</b>
 </p>
 
 <p align="center">
-  🌍 <b>Nairobi, Kenya</b>  
+   <b>Nairobi, Kenya</b>  
 </p>
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 > Passionate backend engineer focused on building efficient, scalable systems.  
 > I love solving real-world problems and constantly improving my craft.  
@@ -21,17 +21,17 @@
 
 ---
 
-### 🧠 Tech Stack
+###  Tech Stack
 
-#### 💻 Languages & Frameworks
+####  Languages & Frameworks
 - **JavaScript (Node.js, Express, TypeScript)**
 - **Python (FastAPI, Django, Flask)**
 - **Golang**
 
-#### 🗄️ Databases
+####  Databases
 - **MongoDB**, **PostgreSQL**, **MySQL**, **Redis**, **SQL**
 
-#### ⚙️ DevOps & Cloud
+####  DevOps & Cloud
 - **Docker**, **Kubernetes**, **AWS**, **GCP**, **Linux**, **Git**, **GitHub**
 
 <p align="center">
@@ -47,16 +47,16 @@
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 | Project | Description | Tech |
 |----------|--------------|------|
-| [Savannah Informatics Technical Challenge](https://github.com/Lucky123-cloud/savannah-informatics-technical-challenge) | Backend challenge solution with clean API design and scalability focus | Node.js, Express, MongoDB |
+| [Savannah Informatics Technical Challenge](https://github.com/Lucky123-cloud/savannah-informatics-technical-challenge) | Backend challenge solution with clean API design and scalability focus | FastAPI, Python, CodeCov |
 | [Task Manager](https://github.com/Lucky123-cloud/Task-manager) | Task management app for productivity and collaboration | Node.js, MongoDB, Express |
 | [Golang Restaurant Manager](https://github.com/Lucky123-cloud/golang/tree/master/golang-restaurant-manag) | Restaurant management system built with Go | Golang, PostgreSQL |
 | [ALX Projects (C, Python, Backend, DevOps)](https://github.com/Lucky123-cloud/alx-higher_level_programming) | Extensive ALX learning projects covering backend, storage, and system engineering | Python, C, Bash, SQL |
 
-> 🧩 Explore more of my repositories → [here](https://github.com/Lucky123-cloud?tab=repositories)
+>  Explore more of my repositories → [here](https://github.com/Lucky123-cloud?tab=repositories)
 
 ---
 
@@ -70,25 +70,25 @@
 
 ---
 
-### 🌱 Currently Exploring
+###  Currently Exploring
 - **Advanced Microservices & Distributed Systems**
 - **Cloud Infrastructure Automation (Kubernetes, Terraform)**
 - **API Optimization & System Scaling**
 
 ---
 
-### ⚡ Fun Fact
+###  Fun Fact
 > Fluent in Python and sarcasm 😄
 
 ---
 
-### 💬 Quote I Live By
+###  Quote I Live By
 > “There should be one — and preferably only one — obvious way to do it.”  
 > — *The Zen of Python*
 
 ---
 
-### 🤝 Let’s Connect
+###  Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucky-baraka/">

@@ -4,7 +4,7 @@
 <h1 align="center">Hey there, I'm LUCKY BARAKA</h1>
 
 <p align="center">
-  <b>Backend Software Engineer | Node.js Golang Python JavaScript | AWS Docker Kubernetes Linux | API & System Design Expert</b>
+  <b>Backend Software Engineer | Node.js, Golang, Python, JavaScript | AWS, Docker, Kubernetes, Linux | API & System Design Expert</b>
 </p>
 
 ---

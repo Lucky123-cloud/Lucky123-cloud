@@ -64,7 +64,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lucky123-cloud&show_icons=true&theme=tokyonight" alt="Lucky's GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucky123-cloud&theme=tokyonight" alt="Lucky's GitHub Streak" height="150" />
+  <img src="https://streak-stats.demolab.com?user=Lucky123-cloud&theme=tokyonight&hide_border=false&border_radius=5" alt="Lucky's GitHub Streak" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucky123-cloud&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
 </p>
 

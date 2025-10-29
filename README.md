@@ -4,11 +4,7 @@
 <h1 align="center">Hey there, I'm LUCKY BARAKA</h1>
 
 <p align="center">
-  <b>Backend Software Engineer | Node.js • Golang • Python • JavaScript | AWS • Docker • Kubernetes • Linux | API & System Design Expert</b>
-</p>
-
-<p align="center">
-   <b>Nairobi, Kenya</b>  
+  <b>Backend Software Engineer | Node.js Golang Python JavaScript | AWS Docker Kubernetes Linux | API & System Design Expert</b>
 </p>
 
 ---
@@ -24,9 +20,9 @@
 ## Tech Stack
 
 ### Languages & Frameworks
-- **JavaScript (Node.js, Express, TypeScript)**
+- **JavaScript (Node.js, Express)**
 - **Python (FastAPI, Django, Flask)**
-- **Golang**
+- **Golang - Learning phase**
 
 ### Databases
 - **MongoDB**, **PostgreSQL**, **MySQL**, **Redis**, **SQL**
@@ -52,8 +48,8 @@
 | Project | Description | Tech |
 |----------|--------------|------|
 | [Task Manager](https://github.com/Lucky123-cloud/Task-manager) | Full MERN-stack productivity app with authentication, task tracking, and cloud persistence. | MongoDB, Express, React, Node.js |
-| [IntaSEF](https://intasef.com) | Secure online escrow payment system for digital transactions. | Flask, PostgreSQL |
-| [Golang Restaurant Manager](https://github.com/Lucky123-cloud/golang/tree/master/golang-restaurant-management-backend) | Scalable restaurant management backend built with Go. | Golang, MongoDB |
+| [Intasef](https://intasef.com) | Secure online escrow payment system for digital transactions. | Flask, PostgreSQL |
+| [Golang Restaurant Manager](https://github.com/Lucky123-cloud/golang/tree/master/golang-restaurant-management-backend) | Scalable restaurant management backend built with Go. | Golang, PostgreSQL |
 | [Savannah Informatics Challenge](https://github.com/Lucky123-cloud/savannah-informatics-technical-challenge) | Backend challenge focusing on clean architecture and performance. | FastAPI, Python |
 | [ALX Comprehensive Projects](https://github.com/Lucky123-cloud/alx-higher_level_programming) | ALX learning projects across backend, storage, and system engineering. | Python, Bash, C, SQL |
 

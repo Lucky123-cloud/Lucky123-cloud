@@ -13,7 +13,7 @@
 
 > Passionate backend engineer focused on building efficient, scalable systems.  
 > I love solving real-world problems and constantly improving my craft.  
-> Deeply interested in **Distributed Systems**, **Microservices Architecture**, and **System Design**.
+> Deeply interested in **Distributed Systems - I am learning about this machine called Cache Consistency: Frangipani**, **Microservices Architecture**, and **System Design**.
 
 ---
 
@@ -21,7 +21,7 @@
 
 ### Languages & Frameworks
 - **JavaScript (Node.js, Express)**
-- **Python (FastAPI, Django, Flask)**
+- **Python**
 - **Golang - Learning phase**
 
 ### Databases
@@ -122,9 +122,10 @@
 ---
 
 ## Currently Exploring
-- Microservices & Distributed Systems and mastery of Go, I find Go really interesting  
-- Cloud Infrastructure Automation (Kubernetes, Terraform)  
-- API Optimization & System Scaling  
+- Microservices (Youtube - Neso Academy, MIT 6.824: Distributed Systems)
+- AWS and GCP from ALX Kenya  
+- API Optimization & System Scaling - Reading artcles
+- Data Structures and Algorithm - Reading a book called Grokking Algorithms by  Aditya Y Bhargava
   N/B - I guess we never try to learn everything, there has always been some peace by not knowing a lot, however we can try to know what helps us not just everything
 
 ---

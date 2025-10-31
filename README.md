@@ -145,9 +145,9 @@
   <a href="mailto:luckybaraka21@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://lucky123-cloud.github.io/Lucky-s_Porfolio/">
+  <!-- <a href="https://lucky123-cloud.github.io/Lucky-s_Porfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
-  </a>
+  </a> -->
 </p>
 
 ---

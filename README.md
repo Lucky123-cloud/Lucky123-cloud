@@ -48,7 +48,7 @@
 | Project | Description | Tech |
 |----------|--------------|------|
 | [Task Manager](https://github.com/Lucky123-cloud/Task-manager) | Full MERN-stack productivity app with authentication, task tracking, and cloud persistence. | MongoDB, Express, React, Node.js |
-  [Task Manager](https://github.com/Lucky123-cloud/GymTrak) | Backend Gym App with authentication, workout Tracking, and notification. | MongoDB, Express, Node.js |
+  [GymTrak](https://github.com/Lucky123-cloud/GymTrak) | Backend Gym App with authentication, workout Tracking, and notification. | MongoDB, Express, Node.js |
 | [Intasef](https://intasef.com) | Secure online escrow payment system for digital transactions. | Flask, PostgreSQL |
 | [Golang Restaurant Manager](https://github.com/Lucky123-cloud/golang/tree/master/golang-restaurant-management-backend) | Scalable restaurant management backend built with Go. | Golang, PostgreSQL |
 | [Savannah Informatics Challenge](https://github.com/Lucky123-cloud/savannah-informatics-technical-challenge) | Backend challenge focusing on clean architecture and performance. | FastAPI, Python |
